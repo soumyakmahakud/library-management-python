@@ -1,6 +1,6 @@
 # Library Management System (Flask + MySQL)
 
-A resume-ready web app to manage library books, members, and book transactions.
+A web app to manage library books, members, and book transactions.
 
 ## Features
 - Admin & staff login
